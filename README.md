@@ -1,2 +1,2 @@
 # python_proj
-Python projects : Data science , Machine learning
+Python projects : Data science , Machine learning, AI
